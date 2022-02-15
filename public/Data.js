@@ -1,0 +1,1 @@
+// class for generative data about country
